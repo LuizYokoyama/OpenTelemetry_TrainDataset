@@ -1,0 +1,1 @@
+Consulta via leitor de QR Code

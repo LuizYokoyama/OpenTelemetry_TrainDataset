@@ -1,2 +1,2 @@
-# OpenTelemetry_TrainDataset
-# OpenTelemetry Train Dataset de cupons fiscais
+# Tesseract_TrainDataset
+# Tesseract Train Dataset de cupons fiscais
